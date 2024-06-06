@@ -1,4 +1,4 @@
-# Sample AI assistant
+# Sample AI assistant..ishaq
 
 You need an `OPENAI_API_KEY` and a `GOOGLE_API_KEY` to run this code. Store them in a `.env` file in the root directory of the project, or set them as environment variables.
 
